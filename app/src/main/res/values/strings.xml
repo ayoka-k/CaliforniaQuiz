@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">California quiz</string>
+    <string name="banner">golden gate</string>
+    <string name="title">What do you know about California?</string>
+
+
+    <string name="question2">2. What is the most famous symbol of California state?</string>
+    <string name="userinput">Enter your answer</string>
+
+    <string name="question1">1. Which of the following statements are true? (There is more than one right answer.)</string>
+    <string name="q1answer1">California is the third largest state by area.</string>
+    <string name="q1answer2">California officially became a state in 1848.</string>
+    <string name="q1answer3">You can find the largest living tree in California.</string>
+    <string name="q1answer4">The highest mountain peak of the USA is located in California.</string>
+
+    <string name="question3">3. The capital of CA is:</string>
+    <string name="q3answer1">San Francisco.</string>
+    <string name="q3answer2">Los Angeles.</string>
+    <string name="q3answer3">Sacramento</string>
+    <string name="q3answer4">San Jose</string>
+
+    <string name="question4">4. Which of these companies were founded in CA?(There is more than one right answer.)</string>
+    <string name="q4answer1">Starbucks</string>
+    <string name="q4answer2">Google</string>
+    <string name="q4answer3">Levi\'s</string>
+    <string name="q4answer4">Netflix</string>
+
+    <string name="question5">5. What does the star on the California flag mean?</string>
+    <string name="q5answer1">Shows that California is the official state.</string>
+    <string name="q5answer2">Imitates the Texas Lone Star.</string>
+    <string name="q5answer3">Symbol of Hollywood Walk of Fame.</string>
+
+    <string name="question6">6. California is famous for its Golden Rush. When did it begin?</string>
+    <string name="q6answer1">1848</string>
+    <string name="q6answer2">1850</string>
+    <string name="q6answer3">1890</string>
+    <string name="q6answer4">1968</string>
+
+    <string name="result">Result</string>
+
+    <string name="reset">Reset</string>
+
+</resources>
